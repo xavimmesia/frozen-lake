@@ -3,3 +3,6 @@ The "Reinforcement Learning for Frozen Lake Navigation" project is an exciting a
 
 ## Objective:
 The primary objective of this project is to design and implement a reinforcement learning algorithm that allows an agent to learn and navigate a frozen lake environment effectively. 
+
+## Files Included
+- [.ipynb Notebook](https://github.com/xavimmesia/canada-refugee-eda/blob/main/Canada%20Refugee%20Statistics%20Exploratory%20Data%20Analysis.ipynb)
